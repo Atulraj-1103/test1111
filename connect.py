@@ -12,4 +12,6 @@ print(y)
 
 print(z)
 
+print("be happy")
 
+print("sure")
